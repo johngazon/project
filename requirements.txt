@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn
+ollama
+langchain
+wikipedia
+duckduckgo-search
+langchain-community
